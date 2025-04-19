@@ -13,4 +13,4 @@ Use is fairly straighforward - once you run the file, you'll be dropped into a f
 There are only probably a handful of people at most who would ever get any use out of this. I wrote it to help a friend dump some files off a Monitor disk and it quickly spiralled into something far dumber.
 
 ## License
-As far as I'm concerned, this is in the public domain. It's absolute trash code and was, effectively, a self-imposed homework assignment. As usual, caveat utilitor - user beware - and know that you use this at your own risk; I am not responsibel for any terrible thing that comes with using this, up to and including the summoning of ancient Phoenician demons that possess you or your computer.
+As far as I'm concerned, this is in the public domain. It's absolute trash code and was, effectively, a self-imposed homework assignment. As usual, caveat utilitor - user beware - and know that you use this at your own risk; I am not responsible for any terrible thing that comes with using this, up to and including the summoning of ancient Phoenician demons that possess you or your computer.
